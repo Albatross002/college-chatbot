@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening", "HELLO", "HII", "HI"],
+      "responses": ["Hello! How can I help you?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "goodbye", "see you", "take care"],
+      "responses": ["Goodbye! Have a great day."]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thanks", "thank you", "thx"],
+      "responses": ["You're welcome! Happy to help."]
+    },
+    {
+      "tag": "confirmation",
+      "patterns": ["yes", "yup", "yeah", "sure", "ok", "okay", "i want say yes"],
+      "responses": ["Got it! Can you please provide more details about your query?"]
+    },
+    {
+      "tag": "denial",
+      "patterns": ["no", "nope", "nah"],
+      "responses": ["Alright, no problem. How else can I assist you?"]
+    }
+  ]
+}

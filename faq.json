@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the admission dates?",
+    "alternatives": ["last date for admission", "admission deadline", "course start date"],
+    "answer": "Admissions start from June 1st, 2025."
+  },
+  {
+    "question": "What courses are available?",
+    "alternatives": ["btech course", "mca course", "list of courses", "programs offered"],
+    "answer": "We offer BCA, MCA, B.Tech, and MBA programs."
+  },
+  {
+    "question": "What is the fee structure?",
+    "alternatives": ["fees", "tuition fee", "payment details", "course fee"],
+    "answer": "The fee structure is available on the official website under Admissions."
+  },
+  {
+    "question": "What is the eligibility criteria?",
+    "alternatives": ["eligibility", "who can apply", "minimum qualification"],
+    "answer": "Eligibility depends on the course. For MCA, candidates must have a bachelor’s degree in computer applications or equivalent."
+  }
+]
